@@ -5,7 +5,7 @@ const portfolio = [
         name: 'Flex Box layout',
         adress: 'https://mietolkin.github.io/flex-box-ws/',
         adressCode: 'https://github.com/mietolkin/flex-box-ws',
-        img: '/img/flex.jpg',
+        img: 'img/flex.jpg',
         categorie: 'Layouts',
 
     },
@@ -14,7 +14,7 @@ const portfolio = [
         name: 'Flex Box layout',
         adress: 'https://mietolkin.github.io/flex-box-ws-2/',
         adressCode: 'https://github.com/mietolkin/flex-box-ws-2',
-        img: '/img/flex2.jpg',
+        img: 'img/flex2.jpg',
         categorie: 'Layouts',
 
     },
@@ -23,7 +23,7 @@ const portfolio = [
         name: 'Float layout',
         adress: '#',
         adressCode: '#',
-        img: '/img/float.jpg',
+        img: 'img/float.jpg',
         categorie: 'JavaScript',
 
     },
@@ -32,7 +32,7 @@ const portfolio = [
         name: 'Bank JS app',
         adress: 'https://mietolkin.github.io/bank-app/',
         adressCode: '#',
-        img: '/img/bank.jpg',
+        img: 'img/bank.jpg',
         categorie: 'JavaScript',
 
     },
@@ -41,7 +41,7 @@ const portfolio = [
         name: 'Pig-game',
         adress: 'https://mietolkin.github.io/pig-game/',
         adressCode: 'https://github.com/mietolkin/pig-game',
-        img: '/img/pig-game.jpg',
+        img: 'img/pig-game.jpg',
         categorie: 'JavaScript',
 
     },
@@ -49,7 +49,7 @@ const portfolio = [
         name: 'Todo list',
         adress: 'https://mietolkin.github.io/todo-list/',
         adressCode: 'https://github.com/mietolkin/todo-list',
-        img: '/img/todo.jpg',
+        img: 'img/todo.jpg',
         categorie: 'JavaScript',
 
     },
